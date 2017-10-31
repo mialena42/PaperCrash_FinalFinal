@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: af8456fc77ded7a4892e1c8ccc97d3f3
+timeCreated: 1509468355
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MY TURTLE
+  fontNames:
+  - MY TURTLE
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
